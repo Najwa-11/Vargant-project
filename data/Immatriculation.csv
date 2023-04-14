@@ -1,0 +1,5 @@
+Immatriculation,Marque,Nom,Puissance,Longueur,NbPlaces,NbPortes,Couleur,Occasion,Prix
+1234 AB 56,Peugeot,307,110,moyenne,5,5,noir,false,5000
+5678 CD 90,Volkswagen,Polo,75,courte,5,3,bleu,true,3000
+9012 EF 34,Renault,Megane,130,moyenne,5,5,rouge,false,8000
+3456 GH 78,Ford,Focus,100,moyenne,5,5,gris,false,6000
